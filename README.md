@@ -9,6 +9,7 @@ My project wishlist:
 * A platformer game
 * A JSON parser
 * Learn some socket stuff
+* Console emulator
 
 ```c
 #include "projects.h"
